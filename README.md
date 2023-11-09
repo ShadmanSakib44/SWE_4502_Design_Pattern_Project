@@ -1,1 +1,1 @@
-# -SWE_4502_Design_Pattern_Project
+# SWE_4502_Design_Pattern_Project
