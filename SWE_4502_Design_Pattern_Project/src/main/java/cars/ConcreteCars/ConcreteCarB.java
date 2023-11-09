@@ -13,6 +13,6 @@ public class ConcreteCarB extends Car {
     @Override
     public void displayCarInfo() {
         System.out.println("ConcreteCarB with custom engine and turbocharger settings.");
-        
+
     }
 }
