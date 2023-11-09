@@ -12,7 +12,7 @@ public class CumminsTurbocharger implements TurbochargerStrategy {
 
     @Override
     public void disableTurbo() {
-        
+
         System.out.println("Cummins Turbocharger disabled.");
     }
 }
